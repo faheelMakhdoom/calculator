@@ -1,1 +1,7 @@
-console.log("Master");
+function sum(){
+    let a =10;
+    let b =5;
+    let c = a + b;
+    console.log("Ressult is: ", c);
+}
+sum()
